@@ -112,7 +112,7 @@ SOFTWARE.
 **Shravya Vasa**  
 💡 *Project Title:* Arduino-Based Solar Tracking System  
 📚 *Focus:* Enhancing solar energy efficiency through intelligent automation.  
-📫 *Contact:* *(You can add your GitHub or LinkedIn link here if you wish)*
+📫 *Contact:* *https://github.com/Shravyavasa*
 
 ---
 
